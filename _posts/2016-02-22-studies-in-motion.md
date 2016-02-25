@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: water
-datePublished: '2016-02-23T23:14:39.563Z'
-dateModified: '2016-02-23T23:13:59.995Z'
+datePublished: '2016-02-25T03:30:56.701Z'
+dateModified: '2016-02-25T03:30:54.928Z'
 title: Studies In Motion
 author: []
 sourcePath: _posts/2016-02-22-studies-in-motion.md
@@ -22,6 +22,8 @@ url: studies-in-motion/index.html
 _type: Article
 
 ---
+Bob and Earl, ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8008894b-2b01-49ab-839a-aa6011196acc.jpg)
+
 Looking into the reflection of the clouds in the pond water, I tried to list the elements of the natural world which remain in constant motion.  Water was easy to add to my list.  But, how can I capture that motion?  
 If  my exposure is to long, the water surface will be smooth, and undefined.  If my shutter is to fast the water will be with out motion.
 ![Observations of Water in Motion](https://s3-us-west-2.amazonaws.com/the-grid-img/p/82eb9d2036de61d85f4a41b06b9bf4a2d76cc30a.jpg)
