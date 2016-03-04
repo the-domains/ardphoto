@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: water
-datePublished: '2016-03-04T17:19:28.153Z'
-dateModified: '2016-03-04T17:19:17.285Z'
+datePublished: '2016-03-04T17:21:33.792Z'
+dateModified: '2016-03-04T17:20:03.100Z'
 title: Studies In Motion
 author: []
 sourcePath: _posts/2016-02-22-studies-in-motion.md
