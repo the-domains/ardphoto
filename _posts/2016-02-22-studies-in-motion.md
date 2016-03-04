@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: water
-datePublished: '2016-02-25T03:30:56.701Z'
-dateModified: '2016-02-25T03:30:54.928Z'
+datePublished: '2016-03-04T06:28:18.695Z'
+dateModified: '2016-03-04T06:28:10.121Z'
 title: Studies In Motion
 author: []
 sourcePath: _posts/2016-02-22-studies-in-motion.md
@@ -22,9 +22,9 @@ url: studies-in-motion/index.html
 _type: Article
 
 ---
-Bob and Earl, ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8008894b-2b01-49ab-839a-aa6011196acc.jpg)
+Where there is water there is change, that change, is constant.  It seems to me that water is in a constant state of change.  In the light of a Maine, summer dawn, warm lake waters jump into the cool atmosphere.  Still air is an important part of this presentation.  I stand and watch the water, air and land wake.  The summer sun is rising fast in the NE.  These are long day.  The sun must follow a long ark from the NE to the NW, any further north and it would not set for a month.  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ddb0929-df22-436d-8c2e-a857eaeb1ea4.jpg)
 
-Looking into the reflection of the clouds in the pond water, I tried to list the elements of the natural world which remain in constant motion.  Water was easy to add to my list.  But, how can I capture that motion?  
+Looking into the reflections of the clouds in the pond water, I tried to list the elements of the natural world which remain in constant motion.  Water was easy to add to my list.  But, how can I capture that motion?  
 If  my exposure is to long, the water surface will be smooth, and undefined.  If my shutter is to fast the water will be with out motion.
 ![Observations of Water in Motion](https://s3-us-west-2.amazonaws.com/the-grid-img/p/82eb9d2036de61d85f4a41b06b9bf4a2d76cc30a.jpg)
 
