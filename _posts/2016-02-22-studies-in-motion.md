@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: water
-datePublished: '2016-03-04T17:21:33.792Z'
-dateModified: '2016-03-04T17:20:03.100Z'
+datePublished: '2016-03-07T06:46:22.767Z'
+dateModified: '2016-03-07T06:45:56.756Z'
 title: Studies In Motion
 author: []
 sourcePath: _posts/2016-02-22-studies-in-motion.md
