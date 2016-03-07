@@ -1,6 +1,6 @@
 name: allan rosen-ducat
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.521641299361363
 title: A few seconds of time.
 cta:
@@ -22,7 +22,7 @@ color:
     - '#788dad'
     - '#325279'
     - '#003b6d'
-  brandStrength: 0.9308727032039315
+  brandStrength: 0.5
   lightness: 0.7945699754636735
   saturation: 0.5
   rhythmicContrast: 0.3982061087153852
