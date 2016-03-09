@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: water
-datePublished: '2016-03-07T06:46:22.767Z'
-dateModified: '2016-03-07T06:45:56.756Z'
+description: "Where there is water there is change, that change, is constant. \_Water is in a constant state of change. \_In the light of a Maine, summer dawn, warm lake water feathers into the cool atmosphere. I stand and watch the water, air and land come alive. \_The summer sun is rising fast in the NE. \_These are long days in the North. \_The sun must follow a long arc from the NE to the NW, any further north and we would not have nightfall. \_The loons call from up lake, the White Throated Sparrow that woke me at 4:00am, sings with is slow well defined simple casual tempo song."
+datePublished: '2016-03-09T06:38:28.545Z'
+dateModified: '2016-03-09T06:37:00.619Z'
 title: Studies In Motion
 author: []
 sourcePath: _posts/2016-02-22-studies-in-motion.md
